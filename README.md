@@ -6,8 +6,9 @@ I'm a Computer Engineer currently specializing in big data analysis and cloud te
 
 ## Contact me
 
-Linkedin: [Pau García](https://www.linkedin.com/in/pau-garc%C3%ADa-esparter-266a2a20a/)
-Email: Pgesparterpubli@gmail.com
+* Linkedin: [Pau García](https://www.linkedin.com/in/pau-garc%C3%ADa-esparter-266a2a20a/)
+
+* Email: Pgesparterpubli@gmail.com
 
 ---
 
