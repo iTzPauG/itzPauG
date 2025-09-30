@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi I'm Pau 👋
 
-<!--
-**iTzPauG/itzPauG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineer currently specializing in big data analysis and cloud tecnologies in EDEM. Here you can check all my work during my career studies. Feel free to use and share with others.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+
+Linkedin: Pau García (https://www.linkedin.com/in/pau-garc%C3%ADa-esparter-266a2a20a/)
+Email: Pgesparterpubli@gmail.com
+
+---
+
+## 🛠️ Languages & Frameworks & Tools
+
+TBD
+
+---
